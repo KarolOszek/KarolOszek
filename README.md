@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello 😄 My name is Karol Oszek, i am currently studying Informatics at University of Wroclaw (UWr), Poland. 
+
+I already have some experience in python, but im looking forward in learning it more deeply. 
