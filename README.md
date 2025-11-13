@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 Hello 😄 My name is Karol Oszek, i am currently studying Informatics at University of Wroclaw (UWr), Poland. 
 
-I already have some experience in python, but im looking forward in learning it more deeply. 
+I already have some experience with coding in python, but im looking forward in learning it more deeply. 
